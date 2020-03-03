@@ -42,6 +42,7 @@ public class App
 				System.out.println();
 		
 		//método sobrescrito
-		smartphone.informarCaracteristicas();			
+		smartphone.informarCaracteristicas();
+        //Modificación de archivo y cambio de rama		
 	}
 }
